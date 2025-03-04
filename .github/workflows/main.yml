@@ -7,4 +7,4 @@ jobs:
       - name: Checkout repo
         uses: actions/checkout@v3
       - name: Run Feed Generator
-        uses: Aliazf98/Podcast_LL@main
+        uses: Aliazf98/podcast-generator@main
